@@ -30,7 +30,7 @@ conda activate TP_Geomag
 
 run from terminal:
 
-jupiter notebook &
+jupyter notebook &
 
 -----------4th step ---------------
 
