@@ -15,13 +15,13 @@ Building
 
 #with mamba
 
-mamba create -n TP_Geomag Basemap scipy Jupiter notebook
+mamba create -n TP_Geomag Basemap scipy Jupyter notebook
 
 mamba activate TP_Geomag
 
 #with conda
 
-conda create -n TP_Geomag Basemap scipy Jupiter notebook
+conda create -n TP_Geomag Basemap scipy Jupyter notebook
 
 conda activate TP_Geomag
 
